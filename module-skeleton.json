@@ -1,0 +1,15 @@
+{
+  "repository": "module-localization-contracts-vue-inertia",
+  "capabilityKey": "liberusoftware/localization-contracts",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-localization-contracts-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/crm/nextjs/localization-contracts.md",
+  "presentationPlan": "projects/crm/vue/localization-contracts.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
